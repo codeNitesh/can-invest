@@ -1,0 +1,28 @@
+.section-question{
+    margin-bottom: 10px;
+}
+
+.question-input{
+    margin: 15px 0;
+}
+
+.half-input{
+    width: 35ch
+}
+
+.question-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inline-question{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 10ch;
+}
+
+.full-width{
+    width: 100%;
+}
